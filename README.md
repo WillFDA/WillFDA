@@ -1,6 +1,6 @@
 # William Ferreira De Azevedo 👋
 
-** `Developpeur Front End` **
+`Developpeur Front End`
 
 Développeur front-end junior de 25 ans, basé dans le 92 et à la recherche d'une alternance en tant que développeur JavaScript React pour octobre 2023. Je viens de terminer ma formation d'intégrateur web où j'ai pu me former aux technologies front-end et développer une vraie passion pour le développement web.
 
