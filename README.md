@@ -2,7 +2,7 @@
 
 `Developpeur Front End`
 
-Développeur front-end junior de 25 ans, basé dans le 92 et à la recherche d'une alternance en tant que développeur JavaScript React pour octobre 2023. Je viens de terminer ma formation d'intégrateur web où j'ai pu me former aux technologies front-end et développer une vraie passion pour le développement web.
+Je suis un développeur front-end junior de 25 ans, actuellement basé dans le 92. Ayant débuté une alternance en tant que développeur JavaScript React depuis octobre 2023, je poursuis activement mon développement professionnel dans ce domaine.
 
 Autodidacte et curieux, j'apprends vite et aime relever des défis techniques. Mon objectif est de mettre à profit mes compétences techniques et créatives pour concevoir des interfaces modernes et qualitatives.
 
