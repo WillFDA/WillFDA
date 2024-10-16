@@ -2,7 +2,7 @@
 
 `Developpeur Front End`
 
-Je suis un développeur front-end junior de 26 ans, actuellement basé dans le 78. Ayant débuté une alternance en tant que développeur JavaScript React depuis octobre 2023, je poursuis activement mon développement professionnel dans ce domaine.
+Je suis un développeur front-end junior de 26 ans, actuellement basé dans le 78.
 
 Autodidacte et curieux, j'apprends vite et aime relever des défis techniques. Mon objectif est de mettre à profit mes compétences techniques et créatives pour concevoir des interfaces modernes et qualitatives.
 
