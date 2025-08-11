@@ -2,7 +2,7 @@
 
 `Developpeur Front End`
 
-Je suis un développeur front-end junior de 26 ans, actuellement basé dans le 78.
+Je suis un développeur front-end junior de 27 ans, actuellement basé dans le 78.
 
 Autodidacte et curieux, j'apprends vite et aime relever des défis techniques. Mon objectif est de mettre à profit mes compétences techniques et créatives pour concevoir des interfaces modernes et qualitatives.
 
